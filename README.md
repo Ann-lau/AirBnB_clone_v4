@@ -155,5 +155,5 @@ No known bugs at this time.
 
 ## Authors
 Ann Lau - [Github](https://github.com/Ann-lau)
-Emiline Uwimbabzi - [Github]
+Emiline Uwimbabzi - [Github emiline-uwimbabazi]
 
